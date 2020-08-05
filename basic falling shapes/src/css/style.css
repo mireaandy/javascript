@@ -1,0 +1,31 @@
+body {
+	background-color: #ffffff;
+	font-family: "Century Gothic", helvetica, arial, sans-serif;
+	font-size: 1.4em;
+	line-height: 1.5;
+}
+
+.info, .control{
+	font-family: "Century Gothic", helvetica, arial, sans-serif;
+	font-size: 0.8em ;
+	line-height: 1;
+}
+
+td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.content {
+	max-width: 800px;
+	margin: auto;
+}
+
+.fps {
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	color: #0000ff;
+	z-index: 10;
+	font-family: monospace;
+}
