@@ -1,15 +1,5 @@
 # Pixi.js Project #
 
-A generic frontend **Pixi.js** project boiler plate in **TypeScript** using **Webpack**.
-
-Main features:
-
-* Source Map support
-* Incremental Build
-* Unit tests
-* Browser Hot Reload
-
-
 Main dependencies:
 
 * **Application Server**: [Node](https://nodejs.org/en/)
@@ -23,8 +13,9 @@ Main dependencies:
 
 Node, TypeScript and TSLint should be installed globally.
 
-	$> git clone https://github.com/yahiko00/PixiProject.git <new folder>
+	$> git clone https://github.com/mireaandy/javascript.git <new folder>
 	$> cd <new folder>
+	$> cd basic falling shapes
 	$> git init
 	$> npm install
 
@@ -43,12 +34,3 @@ The following command builds the project in production mode.
 
 
 For more predefined commands, see `package.json`, item `scripts`.
-
-## Contributors ##
-
-yahiko
-
-
-## Licence ##
-
-MIT
